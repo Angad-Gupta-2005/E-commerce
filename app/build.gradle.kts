@@ -67,4 +67,12 @@ dependencies {
     implementation("com.google.dagger:hilt-android:2.51.1")
     kapt("com.google.dagger:hilt-compiler:2.51.1")
 
+//    Glide an open source image loading framework
+    implementation("com.github.bumptech.glide:glide:4.16.0")
+
+    implementation("com.google.android.material:material:1.12.0")
+
+    implementation("com.tbuonomo:dotsindicator:4.3")
+
+
 }
